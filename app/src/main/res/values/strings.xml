@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Silent Mode Toggle</string>
+    <string name="change">tap on image for change</string>
+    <string name="toggle_silent_mode">Toggle Silent Mode</string>
+</resources>
